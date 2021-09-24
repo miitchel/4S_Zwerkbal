@@ -85,3 +85,46 @@ label{
 .form-control{
     min-width: 200px;
 }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-title{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+}
+
+.grid-text{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.grid-item{
+    border:#D3A625 3px solid;
+    border-radius: 3px;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 420px;
+}
+
+.grid-item-big{
+    border:#D3A625 3px solid;
+    border-radius: 3px;
+    padding: 20px;
+    width: 420px;
+    text-align: center;
+}
+
+.imageZwerkbal{
+    width: 300px;
+}
+
